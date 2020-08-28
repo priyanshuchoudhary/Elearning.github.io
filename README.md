@@ -1,39 +1,4 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@priyanshuchoudhary 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-priyanshuchoudhary
-/
-Elearning.github.io
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Elearning.github.io/index.php
-@priyanshuchoudhary
-priyanshuchoudhary Update index.php
-Latest commit 3034a8b 28 minutes ago
- History
- 1 contributor
-224 lines (173 sloc)  6.38 KB
-  
-<html>
+  <html>
 <head>
 	<title>E learning platform</title>
 <!DOCTYPE html>
